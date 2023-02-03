@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+nav, span {
+  background-color: #706677;
+  height: 60px;
+  width: 100vw;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 2em;
+}
+
+span {
+  width: 50vw;
+  margin-top: 0;
+  line-height: 60px;
+}
+
+img {
+  margin : 0px;
+  width: 45vw;
+}
+
+.box-container {
+  margin-top: 80px;
+}
+
+.box {
+  margin: 1vh 5vw;
+  width: 90vw;
+  background-color: aliceblue;
+  float: left;
+}
+
+#second_header {
+  margin-left: 50vw;
+}
